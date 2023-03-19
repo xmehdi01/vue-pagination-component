@@ -2,13 +2,17 @@ vue-pagination-component 💫
 ========================
 A simple and customizable Vue.js pagination component.
 
+---
+ - Try: [**DEMO**](https://xmehdi01.github.io/vue-pagination-component/) 
+ - Install: [**NPM**](https://www.npmjs.com/package/@xmehdi01/vue-pagination-component)
+ - Source code: [**Github**](https://github.com/xmehdi01/vue-pagination-component) 
 
-
+---
 
 Installation ⚙️
 ------------
 
-`npm install vue-pagination-component`
+`npm i @xmehdi01/vue-pagination-component`
 
 Component using 🚀
 -----
@@ -25,7 +29,7 @@ Component using 🚀
 </template>
 
 <script>
-import PaginationComponent from "./components/VuePaginationComponent.vue";
+import PaginationComponent from "@xmehdi01/vue-pagination-component";
 
 export default {
   name: "App",
